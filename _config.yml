@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: MLQU SOE COLLECTION XHIESH
+title: SOE LIFE 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Living the MLQU Engineering Journey
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: soe life in manuel l. quezon university
+description: SOE LIFE is a student-centered website dedicated to showcasing the journey, experiences, and memories of the Batch 2024 students from the School of Engineering of Manuel L. Quezon University.It highlights student life, academic challenges, achievements, projects, and unforgettable moments as future engineers continue to learn, grow, and build their path toward success.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: xhieshh
+author: Shiela Balneg
 
 ##########
 # COLLECTION SETTINGS
